@@ -1,4 +1,4 @@
-*************
+*********************insertar MES************************
 
 declare 
 v_fecha_ini date:= TO_dATE('20220601','yyyymmdd');
